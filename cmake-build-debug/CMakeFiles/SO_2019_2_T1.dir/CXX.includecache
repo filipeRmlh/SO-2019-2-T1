@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/filipe/CLionProjects/SO-2019-2-T1/FIFO.h
+deque
+-
+
+/home/filipe/CLionProjects/SO-2019-2-T1/LRU.h
+
+/home/filipe/CLionProjects/SO-2019-2-T1/OPT.h
+deque
+-
+map
+-
+bits/stdc++.h
+-
+
+/home/filipe/CLionProjects/SO-2019-2-T1/main.cpp
+iostream
+-
+vector
+-
+OPT.h
+/home/filipe/CLionProjects/SO-2019-2-T1/OPT.h
+FIFO.h
+/home/filipe/CLionProjects/SO-2019-2-T1/FIFO.h
+LRU.h
+/home/filipe/CLionProjects/SO-2019-2-T1/LRU.h
+
